@@ -2,7 +2,7 @@
 
 ## Установка и настройка
 
-1. Склонируйте репозиторий: git clone https://github.com/your-username/content-api.git
+1. Склонируйте репозиторий: git clone: https://github.com/your-username/content-api.git
 2. Установите зависимости: pip install -r requirements.txt
 3. Создайте и настройте базу данных. Вам потребуется PostgreSQL:
 
