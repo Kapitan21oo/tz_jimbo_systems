@@ -19,7 +19,7 @@ DATABASES = {
 
 
 4. Примените миграции: python manage.py migrate
-5. Загрузите начальные данные: python manage.py loaddata load_data.json
+5. Загрузите начальные данные: python manage.py load_commands
 
 6. Запустите сервер: python manage.py runserver
   Просмотр списка страниц: http://localhost:8000/pages/
